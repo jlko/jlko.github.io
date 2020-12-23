@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jlko.github.io/news/</loc>
+    <lastmod>2017-12-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jlko.github.io/authors/</loc>
   </url>
   
