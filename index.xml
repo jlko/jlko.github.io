@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jannik Kossen</title>
+    <title>Jannik Kossen 🤖</title>
     <link>https://jlko.github.io/</link>
       <atom:link href="https://jlko.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Jannik Kossen</description>
+    <description>Jannik Kossen 🤖</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://jlko.github.io/media/avatar.jpg</url>
-      <title>Jannik Kossen</title>
+      <title>Jannik Kossen 🤖</title>
       <link>https://jlko.github.io/</link>
     </image>
     
