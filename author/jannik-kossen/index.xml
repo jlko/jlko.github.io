@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jannik Kossen</title>
+    <link>https://jlko.github.io/author/jannik-kossen/</link>
+      <atom:link href="https://jlko.github.io/author/jannik-kossen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jannik Kossen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://jlko.github.io/author/jannik-kossen/avatar_hu40ad8801469408a0275ab311436364b3_593918_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Jannik Kossen</title>
+      <link>https://jlko.github.io/author/jannik-kossen/</link>
+    </image>
+    
+  </channel>
+</rss>
