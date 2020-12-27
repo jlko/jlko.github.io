@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Jannik Kossen 🤖</title>
-    <link>https://jlko.github.io/categories/</link>
-      <atom:link href="https://jlko.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.jlko.eu/categories/</link>
+      <atom:link href="https://www.jlko.eu/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://jlko.github.io/media/avatar.jpg</url>
+      <url>https://www.jlko.eu/media/avatar.jpg</url>
       <title>Categories</title>
-      <link>https://jlko.github.io/categories/</link>
+      <link>https://www.jlko.eu/categories/</link>
     </image>
     
   </channel>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jannik Kossen 🤖</title>
-    <link>https://jlko.github.io/</link>
-      <atom:link href="https://jlko.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.jlko.eu/</link>
+      <atom:link href="https://www.jlko.eu/index.xml" rel="self" type="application/rss+xml" />
     <description>Jannik Kossen 🤖</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://jlko.github.io/media/avatar.jpg</url>
+      <url>https://www.jlko.eu/media/avatar.jpg</url>
       <title>Jannik Kossen 🤖</title>
-      <link>https://jlko.github.io/</link>
+      <link>https://www.jlko.eu/</link>
     </image>
     
     <item>
       <title>Impressum</title>
-      <link>https://jlko.github.io/terms/</link>
+      <link>https://www.jlko.eu/terms/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://jlko.github.io/terms/</guid>
+      <guid>https://www.jlko.eu/terms/</guid>
       <description>&lt;p&gt;Jannik Kossen&lt;br /&gt;
 New College &lt;br /&gt;
 Oxford OX1 3BN &lt;br /&gt;
@@ -28,9 +28,9 @@ United Kingdom&lt;/p&gt;
     
     <item>
       <title>Privacy Policy</title>
-      <link>https://jlko.github.io/privacy/</link>
+      <link>https://www.jlko.eu/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://jlko.github.io/privacy/</guid>
+      <guid>https://www.jlko.eu/privacy/</guid>
       <description>&lt;h2 id=&#34;allgemeiner-teil&#34;&gt;Allgemeiner Teil&lt;/h2&gt;
 &lt;h3 id=&#34;verantwortlicher-und-datenschutzbeauftragter&#34;&gt;Verantwortlicher und Datenschutzbeauftragter&lt;/h3&gt;
 &lt;p&gt;Jannik Kossen&lt;/p&gt;
@@ -64,9 +64,9 @@ Sei Dir außerdem bewusst, dass wir weitere Informationen von Dir verwenden, fal
     
     <item>
       <title>News 📰</title>
-      <link>https://jlko.github.io/news/</link>
+      <link>https://www.jlko.eu/news/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0100</pubDate>
-      <guid>https://jlko.github.io/news/</guid>
+      <guid>https://www.jlko.eu/news/</guid>
       <description>
 
 

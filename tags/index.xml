@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Jannik Kossen 🤖</title>
-    <link>https://jlko.github.io/tags/</link>
-      <atom:link href="https://jlko.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.jlko.eu/tags/</link>
+      <atom:link href="https://www.jlko.eu/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://jlko.github.io/media/avatar.jpg</url>
+      <url>https://www.jlko.eu/media/avatar.jpg</url>
       <title>Tags</title>
-      <link>https://jlko.github.io/tags/</link>
+      <link>https://www.jlko.eu/tags/</link>
     </image>
     
   </channel>
