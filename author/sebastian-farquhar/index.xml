@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sebastian Farquhar | Jannik Kossen 🤖</title>
+    <link>https://www.jlko.eu/author/sebastian-farquhar/</link>
+      <atom:link href="https://www.jlko.eu/author/sebastian-farquhar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sebastian Farquhar</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.jlko.eu/media/avatar.jpg</url>
+      <title>Sebastian Farquhar</title>
+      <link>https://www.jlko.eu/author/sebastian-farquhar/</link>
+    </image>
+    
+    <item>
+      <title>Active Testing: Sample-Efficient Model Evaluation</title>
+      <link>https://www.jlko.eu/publication/kossen-2021-active/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.jlko.eu/publication/kossen-2021-active/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

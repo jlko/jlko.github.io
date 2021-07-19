@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kristian Kersting | Jannik Kossen 🤖</title>
+    <link>https://www.jlko.eu/author/kristian-kersting/</link>
+      <atom:link href="https://www.jlko.eu/author/kristian-kersting/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kristian Kersting</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.jlko.eu/media/avatar.jpg</url>
+      <title>Kristian Kersting</title>
+      <link>https://www.jlko.eu/author/kristian-kersting/</link>
+    </image>
+    
+    <item>
+      <title>Structured object-aware physics prediction for video modeling and planning</title>
+      <link>https://www.jlko.eu/publication/kossen-2020-structured/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.jlko.eu/publication/kossen-2020-structured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wie Maschinen lernen</title>
+      <link>https://www.jlko.eu/publication/kersting-2019-maschinen/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.jlko.eu/publication/kersting-2019-maschinen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

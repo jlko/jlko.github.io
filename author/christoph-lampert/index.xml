@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christoph Lampert | Jannik Kossen 🤖</title>
+    <link>https://www.jlko.eu/author/christoph-lampert/</link>
+      <atom:link href="https://www.jlko.eu/author/christoph-lampert/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christoph Lampert</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.jlko.eu/media/avatar.jpg</url>
+      <title>Christoph Lampert</title>
+      <link>https://www.jlko.eu/author/christoph-lampert/</link>
+    </image>
+    
+    <item>
+      <title>Wie Maschinen lernen</title>
+      <link>https://www.jlko.eu/publication/kersting-2019-maschinen/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.jlko.eu/publication/kersting-2019-maschinen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
