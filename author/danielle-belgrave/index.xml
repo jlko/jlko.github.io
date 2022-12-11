@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Danielle Belgrave | Jannik Kossen 🤖</title>
+    <link>https://www.jlko.eu/author/danielle-belgrave/</link>
+      <atom:link href="https://www.jlko.eu/author/danielle-belgrave/index.xml" rel="self" type="application/rss+xml" />
+    <description>Danielle Belgrave</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.jlko.eu/media/avatar.jpg</url>
+      <title>Danielle Belgrave</title>
+      <link>https://www.jlko.eu/author/danielle-belgrave/</link>
+    </image>
+    
+    <item>
+      <title>Active Acquisition for Multimodal Temporal Data: A Challenging Decision-Making Task</title>
+      <link>https://www.jlko.eu/publication/kossen-2022-active/</link>
+      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.jlko.eu/publication/kossen-2022-active/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

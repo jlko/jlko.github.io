@@ -5,12 +5,28 @@
     <link>https://www.jlko.eu/</link>
       <atom:link href="https://www.jlko.eu/index.xml" rel="self" type="application/rss+xml" />
     <description>Jannik Kossen 🤖</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.jlko.eu/media/avatar.jpg</url>
       <title>Jannik Kossen 🤖</title>
       <link>https://www.jlko.eu/</link>
     </image>
+    
+    <item>
+      <title>Active Acquisition for Multimodal Temporal Data: A Challenging Decision-Making Task</title>
+      <link>https://www.jlko.eu/publication/kossen-2022-active/</link>
+      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.jlko.eu/publication/kossen-2022-active/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active Surrogate Estimators: An Active Learning Approach to Label-Efficient Model Evaluation</title>
+      <link>https://www.jlko.eu/publication/kossen-2022-surrogate/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.jlko.eu/publication/kossen-2022-surrogate/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Self-Attention Between Datapoints: Going Beyond Individual Input-Output Pairs in Deep Learning</title>
@@ -116,6 +132,8 @@ Sei Dir außerdem bewusst, dass wir weitere Informationen von Dir verwenden, fal
 
 
 
+&lt;p&gt;&lt;strong&gt;11/22&lt;/strong&gt; – Our work on &lt;a href=&#34;https://arxiv.org/abs/2202.06881&#34;&gt;Active Surrogate Estimators: An Active Learning Approach to Label-Efficient Model Evaluation&lt;/a&gt; has been accepted as an oral to &lt;a href=&#34;https://neurips.cc/&#34;&gt;NeurIPS 2022&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;11/22&lt;/strong&gt; – Work from my internship at DeepMind on &lt;a href=&#34;https://arxiv.org/abs/2211.05039&#34;&gt;Active Acquisition for Multimodal Temporal Data: A Challenging Decision-Making Task&lt;/a&gt; has been accepted at the &lt;a href=&#34;https://sites.google.com/view/fmdm-neurips/papers&#34;&gt;Foundation Models for Decision Making NeurIPS 2022 Workshop&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;09/22&lt;/strong&gt; – I am excited to start working as a &lt;em&gt;Student Researcher&lt;/em&gt; at &lt;a href=&#34;https://research.google/&#34;&gt;Google Research&lt;/a&gt; in Zurich.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;05/22&lt;/strong&gt; – Starting as &lt;em&gt;Research Scientist Intern&lt;/em&gt; with &lt;a href=&#34;https://deepmind.com/&#34;&gt;Deepmind&lt;/a&gt; in London.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;04/22&lt;/strong&gt; – I have received a &lt;a href=&#34;https://iclr.cc/Conferences/2022/Reviewers&#34;&gt;&amp;lsquo;Highlighted Reviewer&amp;rsquo; award&lt;/a&gt; for my reviewing at ICLR 2022.&lt;/p&gt;

@@ -5,12 +5,20 @@
     <link>https://www.jlko.eu/author/sebastian-farquhar/</link>
       <atom:link href="https://www.jlko.eu/author/sebastian-farquhar/index.xml" rel="self" type="application/rss+xml" />
     <description>Sebastian Farquhar</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.jlko.eu/media/avatar.jpg</url>
       <title>Sebastian Farquhar</title>
       <link>https://www.jlko.eu/author/sebastian-farquhar/</link>
     </image>
+    
+    <item>
+      <title>Active Surrogate Estimators: An Active Learning Approach to Label-Efficient Model Evaluation</title>
+      <link>https://www.jlko.eu/publication/kossen-2022-surrogate/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.jlko.eu/publication/kossen-2022-surrogate/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Active Testing: Sample-Efficient Model Evaluation</title>

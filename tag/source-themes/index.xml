@@ -5,12 +5,28 @@
     <link>https://www.jlko.eu/tag/source-themes/</link>
       <atom:link href="https://www.jlko.eu/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.jlko.eu/media/avatar.jpg</url>
       <title>Source Themes</title>
       <link>https://www.jlko.eu/tag/source-themes/</link>
     </image>
+    
+    <item>
+      <title>Active Acquisition for Multimodal Temporal Data: A Challenging Decision-Making Task</title>
+      <link>https://www.jlko.eu/publication/kossen-2022-active/</link>
+      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.jlko.eu/publication/kossen-2022-active/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active Surrogate Estimators: An Active Learning Approach to Label-Efficient Model Evaluation</title>
+      <link>https://www.jlko.eu/publication/kossen-2022-surrogate/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.jlko.eu/publication/kossen-2022-surrogate/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Active Testing: Sample-Efficient Model Evaluation</title>

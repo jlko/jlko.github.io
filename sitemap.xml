@@ -3,6 +3,106 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.jlko.eu/publication-type/1/</loc>
+    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jlko.eu/publication/kossen-2022-active/</loc>
+    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jlko.eu/author/andrew-jaegle/</loc>
+    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jlko.eu/authors/</loc>
+    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jlko.eu/author/catalina-cangea/</loc>
+    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jlko.eu/author/danielle-belgrave/</loc>
+    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jlko.eu/author/eszter-vertes/</loc>
+    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jlko.eu/author/ira-ktena/</loc>
+    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jlko.eu/author/jannik-kossen/</loc>
+    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jlko.eu/</loc>
+    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jlko.eu/author/nenad-tomasev/</loc>
+    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jlko.eu/publication_types/</loc>
+    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jlko.eu/publication/</loc>
+    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jlko.eu/tag/source-themes/</loc>
+    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jlko.eu/tags/</loc>
+    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jlko.eu/author/viorica-patraucean/</loc>
+    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jlko.eu/publication/kossen-2022-surrogate/</loc>
+    <lastmod>2022-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jlko.eu/author/sebastian-farquhar/</loc>
+    <lastmod>2022-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jlko.eu/author/tom-rainforth/</loc>
+    <lastmod>2022-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jlko.eu/author/yarin-gal/</loc>
+    <lastmod>2022-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.jlko.eu/publication-type/2/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url>
@@ -13,22 +113,7 @@
   </url>
   
   <url>
-    <loc>https://www.jlko.eu/authors/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.jlko.eu/author/clare-lyle/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jlko.eu/author/jannik-kossen/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jlko.eu/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,52 +123,12 @@
   </url>
   
   <url>
-    <loc>https://www.jlko.eu/publication_types/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jlko.eu/publication/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.jlko.eu/publication/kossen-2021-self/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.jlko.eu/author/tom-rainforth/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jlko.eu/author/yarin-gal/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jlko.eu/publication-type/1/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.jlko.eu/publication/kossen-2021-active/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jlko.eu/author/sebastian-farquhar/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jlko.eu/tag/source-themes/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jlko.eu/tags/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
