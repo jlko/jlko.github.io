@@ -2,8 +2,8 @@
   "name": "Jannik Kossen 🤖",
   "short_name": "Jannik Kossen 🤖",
   "lang": "en-us",
-  "theme_color": "rgb(0, 136, 204)",
-  "background_color": "rgb(0, 136, 204)",
+  "theme_color": "#2962ff",
+  "background_color": "#2962ff",
   "icons": [{
     "src": "/images/icon_hud2c7d6a8d0887bc7f1d4eccfdde6d4b3_108393_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",

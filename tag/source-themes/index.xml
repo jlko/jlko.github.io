@@ -5,12 +5,20 @@
     <link>https://www.jlko.eu/tag/source-themes/</link>
       <atom:link href="https://www.jlko.eu/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.jlko.eu/media/avatar.jpg</url>
       <title>Source Themes</title>
       <link>https://www.jlko.eu/tag/source-themes/</link>
     </image>
+    
+    <item>
+      <title>Three Towers: Flexible Contrastive Learning with Pretrained Image Models</title>
+      <link>https://www.jlko.eu/publication/kossen-2023-three/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.jlko.eu/publication/kossen-2023-three/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Active Acquisition for Multimodal Temporal Data: A Challenging Decision-Making Task</title>

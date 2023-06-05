@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lucas Beyer | Jannik Kossen 🤖</title>
+    <link>https://www.jlko.eu/author/lucas-beyer/</link>
+      <atom:link href="https://www.jlko.eu/author/lucas-beyer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lucas Beyer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.jlko.eu/media/avatar.jpg</url>
+      <title>Lucas Beyer</title>
+      <link>https://www.jlko.eu/author/lucas-beyer/</link>
+    </image>
+    
+    <item>
+      <title>Three Towers: Flexible Contrastive Learning with Pretrained Image Models</title>
+      <link>https://www.jlko.eu/publication/kossen-2023-three/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.jlko.eu/publication/kossen-2023-three/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
