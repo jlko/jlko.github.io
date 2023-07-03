@@ -5,7 +5,7 @@
     <link>https://www.jlko.eu/</link>
       <atom:link href="https://www.jlko.eu/index.xml" rel="self" type="application/rss+xml" />
     <description>Jannik Kossen 🤖</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.jlko.eu/media/avatar.jpg</url>
       <title>Jannik Kossen 🤖</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Three Towers: Flexible Contrastive Learning with Pretrained Image Models</title>
-      <link>https://www.jlko.eu/publication/kossen-2023-three/</link>
-      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.jlko.eu/publication/kossen-2023-three/</guid>
+      <title>Active Acquisition for Multimodal Temporal Data: A Challenging Decision-Making Task</title>
+      <link>https://www.jlko.eu/publication/kossen-2023-active/</link>
+      <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.jlko.eu/publication/kossen-2023-active/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Active Acquisition for Multimodal Temporal Data: A Challenging Decision-Making Task</title>
-      <link>https://www.jlko.eu/publication/kossen-2022-active/</link>
-      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.jlko.eu/publication/kossen-2022-active/</guid>
+      <title>Three Towers: Flexible Contrastive Learning with Pretrained Image Models</title>
+      <link>https://www.jlko.eu/publication/kossen-2023-three/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.jlko.eu/publication/kossen-2023-three/</guid>
       <description></description>
     </item>
     
@@ -140,6 +140,7 @@ Sei Dir außerdem bewusst, dass wir weitere Informationen von Dir verwenden, fal
 
 
 
+&lt;p&gt;&lt;strong&gt;07/23&lt;/strong&gt; – Work from my internship at DeepMind on &lt;a href=&#34;https://openreview.net/forum?id=Gbu1bHQhEL&#34;&gt;Active Acquisition for Multimodal Temporal Data: A Challenging Decision-Making Task&lt;/a&gt; has been accepted at &lt;a href=&#34;https://jmlr.org/tmlr/&#34;&gt;Transactions on Machine Learning Research&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;05/23&lt;/strong&gt; – New Preprint vom my time as student rearcher at Google: &lt;a href=&#34;https://arxiv.org/abs/2305.16999&#34;&gt;Three Towers: Flexible Contrastive Learning with Pretrained Image Models&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;11/22&lt;/strong&gt; – Our work on &lt;a href=&#34;https://arxiv.org/abs/2202.06881&#34;&gt;Active Surrogate Estimators: An Active Learning Approach to Label-Efficient Model Evaluation&lt;/a&gt; has been accepted as an oral to &lt;a href=&#34;https://neurips.cc/&#34;&gt;NeurIPS 2022&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;11/22&lt;/strong&gt; – Work from my internship at DeepMind on &lt;a href=&#34;https://arxiv.org/abs/2211.05039&#34;&gt;Active Acquisition for Multimodal Temporal Data: A Challenging Decision-Making Task&lt;/a&gt; has been accepted at the &lt;a href=&#34;https://sites.google.com/view/fmdm-neurips/papers&#34;&gt;Foundation Models for Decision Making NeurIPS 2022 Workshop&lt;/a&gt;.&lt;/p&gt;

@@ -4,16 +4,86 @@
   
   <url>
     <loc>https://www.jlko.eu/publication-type/1/</loc>
-    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.jlko.eu/author/andreas-steiner/</loc>
-    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+    <loc>https://www.jlko.eu/publication/kossen-2023-active/</loc>
+    <lastmod>2023-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jlko.eu/author/andrew-jaegle/</loc>
+    <lastmod>2023-07-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.jlko.eu/authors/</loc>
+    <lastmod>2023-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jlko.eu/author/catalina-cangea/</loc>
+    <lastmod>2023-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jlko.eu/author/danielle-belgrave/</loc>
+    <lastmod>2023-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jlko.eu/author/eszter-vertes/</loc>
+    <lastmod>2023-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jlko.eu/author/ira-ktena/</loc>
+    <lastmod>2023-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jlko.eu/author/jannik-kossen/</loc>
+    <lastmod>2023-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jlko.eu/</loc>
+    <lastmod>2023-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jlko.eu/author/nenad-tomasev/</loc>
+    <lastmod>2023-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jlko.eu/publication_types/</loc>
+    <lastmod>2023-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jlko.eu/publication/</loc>
+    <lastmod>2023-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jlko.eu/tag/source-themes/</loc>
+    <lastmod>2023-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jlko.eu/tags/</loc>
+    <lastmod>2023-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jlko.eu/author/viorica-patraucean/</loc>
+    <lastmod>2023-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jlko.eu/author/andreas-steiner/</loc>
     <lastmod>2023-05-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -24,16 +94,6 @@
   
   <url>
     <loc>https://www.jlko.eu/author/efi-kokiopoulou/</loc>
-    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jlko.eu/author/jannik-kossen/</loc>
-    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jlko.eu/</loc>
     <lastmod>2023-05-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -53,27 +113,7 @@
   </url>
   
   <url>
-    <loc>https://www.jlko.eu/publication_types/</loc>
-    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jlko.eu/publication/</loc>
-    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.jlko.eu/author/rodolphe-jenatton/</loc>
-    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jlko.eu/tag/source-themes/</loc>
-    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jlko.eu/tags/</loc>
     <lastmod>2023-05-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -90,46 +130,6 @@
   <url>
     <loc>https://www.jlko.eu/author/xiaohua-zhai/</loc>
     <lastmod>2023-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jlko.eu/publication/kossen-2022-active/</loc>
-    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jlko.eu/author/andrew-jaegle/</loc>
-    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jlko.eu/author/catalina-cangea/</loc>
-    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jlko.eu/author/danielle-belgrave/</loc>
-    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jlko.eu/author/eszter-vertes/</loc>
-    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jlko.eu/author/ira-ktena/</loc>
-    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jlko.eu/author/nenad-tomasev/</loc>
-    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jlko.eu/author/viorica-patraucean/</loc>
-    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
