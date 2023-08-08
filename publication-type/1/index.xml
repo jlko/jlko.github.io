@@ -5,12 +5,20 @@
     <link>https://www.jlko.eu/publication-type/1/</link>
       <atom:link href="https://www.jlko.eu/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.jlko.eu/media/avatar.jpg</url>
       <title>1</title>
       <link>https://www.jlko.eu/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>In-Context Learning in Large Language Models Learns Label Relationships but Is Not Conventional Learning</title>
+      <link>https://www.jlko.eu/publication/kossen-2023-context/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.jlko.eu/publication/kossen-2023-context/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Active Acquisition for Multimodal Temporal Data: A Challenging Decision-Making Task</title>

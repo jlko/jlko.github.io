@@ -5,12 +5,20 @@
     <link>https://www.jlko.eu/</link>
       <atom:link href="https://www.jlko.eu/index.xml" rel="self" type="application/rss+xml" />
     <description>Jannik Kossen 🤖</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.jlko.eu/media/avatar.jpg</url>
       <title>Jannik Kossen 🤖</title>
       <link>https://www.jlko.eu/</link>
     </image>
+    
+    <item>
+      <title>In-Context Learning in Large Language Models Learns Label Relationships but Is Not Conventional Learning</title>
+      <link>https://www.jlko.eu/publication/kossen-2023-context/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.jlko.eu/publication/kossen-2023-context/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Active Acquisition for Multimodal Temporal Data: A Challenging Decision-Making Task</title>
@@ -140,6 +148,8 @@ Sei Dir außerdem bewusst, dass wir weitere Informationen von Dir verwenden, fal
 
 
 
+&lt;p&gt;&lt;strong&gt;08/23&lt;/strong&gt; – &lt;a href=&#34;https://arxiv.org/abs/2307.12375&#34;&gt;New preprint&lt;/a&gt; on how in-context learning in large language models learns label relationships.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;07/23&lt;/strong&gt; – Work from my internship at Google on &lt;a href=&#34;https://arxiv.org/abs/2305.16999&#34;&gt;contrastive learning with pre-trained models&lt;/a&gt; has been accepted at &lt;a href=&#34;https://es-fomo.com/&#34;&gt;ES-FoMo Workshop at ICML&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;07/23&lt;/strong&gt; – Work from my internship at DeepMind on &lt;a href=&#34;https://openreview.net/forum?id=Gbu1bHQhEL&#34;&gt;Active Acquisition for Multimodal Temporal Data: A Challenging Decision-Making Task&lt;/a&gt; has been accepted at &lt;a href=&#34;https://jmlr.org/tmlr/&#34;&gt;Transactions on Machine Learning Research&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;05/23&lt;/strong&gt; – New Preprint vom my time as student rearcher at Google: &lt;a href=&#34;https://arxiv.org/abs/2305.16999&#34;&gt;Three Towers: Flexible Contrastive Learning with Pretrained Image Models&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;11/22&lt;/strong&gt; – Our work on &lt;a href=&#34;https://arxiv.org/abs/2202.06881&#34;&gt;Active Surrogate Estimators: An Active Learning Approach to Label-Efficient Model Evaluation&lt;/a&gt; has been accepted as an oral to &lt;a href=&#34;https://neurips.cc/&#34;&gt;NeurIPS 2022&lt;/a&gt;.&lt;/p&gt;
