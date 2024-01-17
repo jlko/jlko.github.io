@@ -5,7 +5,7 @@
     <link>https://www.jlko.eu/</link>
       <atom:link href="https://www.jlko.eu/index.xml" rel="self" type="application/rss+xml" />
     <description>Jannik Kossen 🤖</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.jlko.eu/media/avatar.jpg</url>
       <title>Jannik Kossen 🤖</title>
@@ -15,7 +15,7 @@
     <item>
       <title>In-Context Learning in Large Language Models Learns Label Relationships but Is Not Conventional Learning</title>
       <link>https://www.jlko.eu/publication/kossen-2023-context/</link>
-      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://www.jlko.eu/publication/kossen-2023-context/</guid>
       <description></description>
     </item>
@@ -148,6 +148,8 @@ Sei Dir außerdem bewusst, dass wir weitere Informationen von Dir verwenden, fal
 
 
 
+&lt;p&gt;&lt;strong&gt;01/24&lt;/strong&gt; – Our work on &lt;a href=&#34;https://openreview.net/forum?id=YPIA7bgd5y&#34;&gt;how in-context learning in LLMs learns label relationships&lt;/a&gt; has been accepted to &lt;a href=&#34;https://iclr.cc/&#34;&gt;ICLR 2024&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09/23&lt;/strong&gt; – Work from my internship at Google on &lt;a href=&#34;https://openreview.net/forum?id=LSYQB4CwD3&#34;&gt;contrastive learning with pre-trained models&lt;/a&gt; has been accepted to &lt;a href=&#34;https://neurips.cc/&#34;&gt;NeurIPS 2023&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;08/23&lt;/strong&gt; – &lt;a href=&#34;https://arxiv.org/abs/2307.12375&#34;&gt;New preprint&lt;/a&gt; on how in-context learning in large language models learns label relationships.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;07/23&lt;/strong&gt; – Work from my internship at Google on &lt;a href=&#34;https://arxiv.org/abs/2305.16999&#34;&gt;contrastive learning with pre-trained models&lt;/a&gt; has been accepted at &lt;a href=&#34;https://es-fomo.com/&#34;&gt;ES-FoMo Workshop at ICML&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;07/23&lt;/strong&gt; – Work from my internship at DeepMind on &lt;a href=&#34;https://openreview.net/forum?id=Gbu1bHQhEL&#34;&gt;Active Acquisition for Multimodal Temporal Data: A Challenging Decision-Making Task&lt;/a&gt; has been accepted at &lt;a href=&#34;https://jmlr.org/tmlr/&#34;&gt;Transactions on Machine Learning Research&lt;/a&gt;.&lt;/p&gt;
