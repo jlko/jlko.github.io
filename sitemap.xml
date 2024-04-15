@@ -1,263 +1,159 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://www.jlko.eu/publication-type/1/</loc>
     <lastmod>2024-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/authors/</loc>
     <lastmod>2024-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/publication/kossen-2023-context/</loc>
     <lastmod>2024-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jlko.eu/author/jannik-kossen/</loc>
-    <lastmod>2024-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/</loc>
     <lastmod>2024-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://www.jlko.eu/author/jannik-kossen/</loc>
+    <lastmod>2024-01-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.jlko.eu/publication_types/</loc>
     <lastmod>2024-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/publication/</loc>
     <lastmod>2024-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/tag/source-themes/</loc>
     <lastmod>2024-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/tags/</loc>
     <lastmod>2024-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/author/tom-rainforth/</loc>
     <lastmod>2024-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/author/yarin-gal/</loc>
     <lastmod>2024-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/author/andreas-steiner/</loc>
     <lastmod>2023-07-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/author/basil-mustafa/</loc>
     <lastmod>2023-07-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/author/efi-kokiopoulou/</loc>
     <lastmod>2023-07-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/author/jesse-berent/</loc>
     <lastmod>2023-07-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/author/lucas-beyer/</loc>
     <lastmod>2023-07-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/author/mark-collier/</loc>
     <lastmod>2023-07-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/author/rodolphe-jenatton/</loc>
     <lastmod>2023-07-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/publication/kossen-2023-three/</loc>
     <lastmod>2023-07-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/author/wang-xia/</loc>
     <lastmod>2023-07-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/author/xiaohua-zhai/</loc>
     <lastmod>2023-07-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://www.jlko.eu/publication-type/2/</loc>
+    <lastmod>2023-07-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.jlko.eu/publication/kossen-2023-active/</loc>
     <lastmod>2023-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/author/andrew-jaegle/</loc>
     <lastmod>2023-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/author/catalina-cangea/</loc>
     <lastmod>2023-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/author/danielle-belgrave/</loc>
     <lastmod>2023-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/author/eszter-vertes/</loc>
     <lastmod>2023-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/author/ira-ktena/</loc>
     <lastmod>2023-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/author/nenad-tomasev/</loc>
     <lastmod>2023-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/author/viorica-patraucean/</loc>
     <lastmod>2023-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/publication/kossen-2022-surrogate/</loc>
     <lastmod>2022-02-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/author/sebastian-farquhar/</loc>
     <lastmod>2022-02-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jlko.eu/publication-type/2/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/author/aidan-n-gomez/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/author/clare-lyle/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/author/neil-band/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/publication/kossen-2021-self/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/publication/kossen-2021-active/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/author/claas-voelcker/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/author/karl-stelzner/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/author/kristian-kersting/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/author/marcel-hussing/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/publication/kossen-2020-structured/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/publication/kossen-2020-thesis/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/publication-type/5/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/author/christoph-lampert/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/author/constantin-rothkopf-editors/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/publication/kersting-2019-maschinen/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/terms/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/news/</loc>
-    <lastmod>2017-12-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.jlko.eu/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.jlko.eu/author/jannik-kossen/</loc>
   </url>
-  
 </urlset>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 | Jannik Kossen 🤖</title>
+    <title>2 | Jannik Kossen</title>
     <link>https://www.jlko.eu/publication-type/2/</link>
       <atom:link href="https://www.jlko.eu/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.jlko.eu/media/avatar.jpg</url>
       <title>2</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Self-Attention Between Datapoints: Going Beyond Individual Input-Output Pairs in Deep Learning</title>
-      <link>https://www.jlko.eu/publication/kossen-2021-self/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.jlko.eu/publication/kossen-2021-self/</guid>
+      <title>Active Acquisition for Multimodal Temporal Data: A Challenging Decision-Making Task</title>
+      <link>https://www.jlko.eu/publication/kossen-2023-active/</link>
+      <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.jlko.eu/publication/kossen-2023-active/</guid>
       <description></description>
     </item>
     
